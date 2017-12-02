@@ -1,0 +1,8 @@
+# Bloqueia o acesso ao arquivo de configuração
+<files config.txt>
+	order allow,deny
+	deny from all
+</files>
+
+# Disabilita listagem dos arquivos do diretório
+Options All -Indexes

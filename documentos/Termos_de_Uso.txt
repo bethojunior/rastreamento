@@ -1,0 +1,101 @@
+TERMOS E CONDIÇÕES DE USO DO SISTEMA DE RASTREAMENTO GPS/GPRS VIA INTERNET
+
+#RAZAOSOCIAL# - CNPJ #CNPJ#, doravante denominada simplesmente #NOMEFANTASIA#, estabelece o presente TERMO DE USO para os USUÁRIOS, conforme as condições abaixo discriminadas. Ao acessar e navegar no site do sistema de rastreamento GPS do #NOMEFANTASIA#, o USUÁRIO aceita sem limitação ou qualificação, os Termos e Condições de Uso aqui estipulados:
+
+I - CONSIDERAÇÕES INICIAIS:
+
+I.I. O USUÁRIO está autorizado a descarregar, imprimir e/ou exibir as informações contidas no Site, exclusivamente para uso privado com, ou sem, finalidades comerciais.
+I.II. O USUÁRIO deverá manter e reproduzir todo e qualquer aviso de direitos autorais ("copyrights") e demais avisos de exclusividade constantes nos documentos por ele descarregados. Entretanto, é vedado ao USUÁRIO distribuir, modificar, transmitir, re-utilizar, re-incluir ou utilizar o conteúdo do Site para fins públicos ou comerciais, incluindo o texto, imagens, áudio e vídeo sem a autorização expressa do #NOMEFANTASIA#. O USUÁRIO deverá tratar todo o conteúdo deste Site de acordo com sua condição de protegido pela Lei da Propriedade Industrial (Lei nº 9279/96) e Lei de Direitos Autorais ("copyrights" - Lei 9610/98), observadas quaisquer disposições em contrário, e não poderá utilizá-lo de outra forma senão conforme as disposições destes Termos e Condições ou no texto do Site, sem a autorização expressa do #NOMEFANTASIA#. O #NOMEFANTASIA# não garante ou declara que a utilização, pelo USUÁRIO, de materiais exibidos no Site, não venham a violar direitos de terceiros, não pertencentes ao #NOMEFANTASIA# ou por ela controlados.
+I.III. Com exceção da autorização disposta acima, a utilização deste Site não implica em cessão ao USUÁRIO de licenças ou direitos sobre quaisquer direitos autorais, sejam pertencentes ao #NOMEFANTASIA# ou a terceiros.
+I.IV. O site do sistema de rastreamento do do #NOMEFANTASIA# na Internet pode conter ou citar marcas registradas, patentes, informações, tecnologias, produtos, processos ou outros direitos protegidos por patentes de propriedade do do #NOMEFANTASIA#, de suas subsidiárias ou de terceiros. Sob hipótese nenhuma a utilização deste Site implica em cessão ao usuário das citadas marcas registradas, patentes, informações, tecnologias, produtos, processos ou outros direitos protegidos por patentes de propriedade do #NOMEFANTASIA#, suas subsidiárias ou de terceiros.
+I.V. Embora o #NOMEFANTASIA# utilize todos os recursos ao seu alcance para exibir informações exatas e atualizadas no Site, a mesma se abstém de dar garantias ou declarações relativamente ao conteúdo deste Site, que deve ser entendido "no estado em que se encontram". O #NOMEFANTASIA# não aceita quaisquer responsabilidades decorrentes ou relativas à utilização deste Site e de seu conteúdo. Em especial, o #NOMEFANTASIA# não se responsabiliza pela precisão, integridade, pertinência, oportunidade ou abrangência das informações contidas neste Site. O #NOMEFANTASIA# também não responderá por danos ou vírus que possam vir a infectar o computador ou equipamento ou outros bens decorrentes do acesso do USUÁRIO ao Site ou da navegação pelo mesmo ou por descarregar quaisquer materiais, dados, textos, imagens, vídeos ou áudios incluídos no Site. O #NOMEFANTASIA# se reserva o direito de interromper ou desativar quaisquer atividades do Site. O #NOMEFANTASIA# não responderá sob hipótese alguma por qualquer interrupção ou desativação de uma ou mais atividades deste Site, decorrente de ações ou omissões de terceiros.
+I.VI. Considerando que o #NOMEFANTASIA# não tem controle ou tampouco endossa qualquer um dos sites aos quais o seu Site tem um link, e considerando que o #NOMEFANTASIA# não verificou nenhum dos referidos sites, o USUÁRIO está ciente de que o #NOMEFANTASIA# não se responsabiliza pelo conteúdo de páginas fora de seu Site ou outros sites com link para o seu Site. Ao utilizar um link para o seu Site, páginas fora do seu Site ou outros sites, o USUÁRIO está agindo por sua própria conta e risco, e sem a permissão ou orientação do #NOMEFANTASIA#. Ao utilizar os referidos links, o USUÁRIO fica ciente de que se aplica a nota legal e a política de privacidade do site remetido pelo link, as quais poderão 
+divergir das políticas do #NOMEFANTASIA#.
+I.VII. O #NOMEFANTASIA# poderá a qualquer momento alterar estes Termos e Condições, atualizando o seu conteúdo. O USUÁRIO ficará sujeito a eventuais revisões e deverá, portanto, visitar esta página periodicamente para rever os Termos e Condições vigentes na época da visita em questão.
+
+II - FUNCIONAMENTO DO SISTEMA:
+
+II.I. Sistema de computador acessado via internet, doravante denominado simplesmente SISTEMA, que tem o objetivo de receber, registrar e armazenar em disco rígido nos computadores de empresas de hospedagem de terceiros, as posições de latitude e longitude e outras informações telemétricas transmitidas via GPRS (telefonia celular) pelo Rastreador GPS de propriedade do USUÁRIO.
+II.II. O SISTEMA ora disponibilizado pelo #NOMEFANTASIA# será utilizado por conta e responsabilidade do USUÁRIO.
+II.III. Mediante o pagamento de um valor mensal ou anual de acordo com o plano contratado, o USUÁRIO terá direito ao espaço em disco rígido necessário para armazenar todas as posições que venham a ser enviadas pelo seu equipamento para os servidores de hospedagem terceiros por ela contratados e ficarão disponíveis pelo período do mês corrente e mês anterior ao corrente.
+II.IV. O SISTEMA fornecerá somente informações relativas aos rastreadores incluídos neste contrato, desde que estejam em perfeito funcionamento, com simcard (chip) celular GSM ativo na operadora de telefonia e com crédito suficiente para que ocorra a transmissão das informações via GPRS.
+II.V. O SISTEMA será hospedado em empresas de hospedagem de terceiros ou em qualquer outro local por ela designado, sendo que seu acesso pelo USUÁRIO será efetuado unicamente e exclusivamente pela internet.
+II.VI. Para que tenha pleno acesso e uso do SISTEMA via internet, o #NOMEFANTASIA# fornecerá ao USUÁRIO um link, onde será possível cadastrar o email e uma senha de uso exclusivo, que oferecerá as opções de consultar o histórico das posições registradas, bem como a visualização destas posições em mapas digitais vetorizados do Google Maps.
+II.VII. O #NOMEFANTASIA# disponibilizará ao USUÁRIO o acesso ao SISTEMA de forma ininterrupta, salvo em casos de manutenção e/ou motivos que estejam fora do controle do #NOMEFANTASIA#. Essas interrupções poderão não ter um tempo máximo previsto para duração, e sempre que possível serão comunicadas previamente ao USUÁRIO.
+II.VIII. O SISTEMA será acessado através do endereço eletrônico #WEBSITE#, ou ainda em qualquer outro que o #NOMEFANTASIA# venha a definir, o qual será previamente informado ao USUÁRIO.
+
+III – TEMPO DE VALIDADE DA SENHA DE ACESSO AO SISTEMA:
+
+III.I. A senha e o login de acesso ao sistema será cadastrada pelo #NOMEFANTASIA# e fornecida ao USUÁRIO.
+III.II. A senha de acesso terá validade até a data em que deverá ocorrer o pagamento da taxa referente a manutenção dos serviços ora disponibilizados.
+
+IV – FORMA DE PAGAMENTO E COBRANÇA:
+
+IV.I. O USUÁRIO pagará pela utilização do SISTEMA um valor fixo mensal ou anual, pré-definido no ato da contratação e conforme o planos ou modalidades escolhidas. Também poderá ocorrer o pagamento de anuidade, cujo valor também será fixado no ato da contratação e conforme planos ou modalidades escolhidas. O pagamento da anuidade a vista, ou pagamento antecipado das mensalidades subsequentes ao mês utilizado, não poderá ser devolvido.
+IV.II. O valor da mensalidade poderá ser reajustado no mês de janeiro de cada ano, caso necessário e de acordo com índices de correção vigentes.
+IV.III. Mediante prévia autorização por email, o pagamento poderá ser efetuado pelo USUÁRIO através de depósito em conta bancária do detentor do SISTEMA.
+III.III. Caso o USUÁRIO não receba o link para pagamento ou seu boleto por e-mail, deverá solicitá-lo pelo e-mail monitoramentoaguia@terra.com.br.
+IV.IV.O não pagamento da mensalidade ou anuidade até a data de vencimento, implicará no bloqueio do acesso ao SISTEMA, até a regularização da pendência.
+IV.V. Em caso de reincidencia no atraso por 90 (noventa) dias ou 03 (três) mêses consecutivos, a contar da data do primeiro vencimento, o #NOMEFANTASIA# poderá realizar a exclusão da conta do USUÁRIO, bem como apagar todo o histórico de posições e demais informações do Rastreador GPS armazenadas no SISTEMA até a data de cancelamento.
+IV.VI. Em caso de exclusão de conta nos termos da cláusula anterior, o USUÁRIO poderá ser admitido novamente como cliente, mediante o pagamento de uma Taxa de configuração, equivalente a 01 (uma) mensalidade vigente.
+
+
+V – EXCLUSÕES DE RESPONSABILIDADE:
+
+V.I. A UTILIZAÇÃO DO SISTEMA NÃO INCLUI O MONITORAMENTO POR CENTRAL DE ATENDIMENTO 24H, NEM O ATENDIMENTO OU PROVIDÊNCIAS EM CASOS DE ALERTAS DE PÂNICO, EMERGÊNCIAS, OCORRÊNCIAS DE ROUBO, FURTO, SEQÜESTROS OU QUAISQUER OUTRAS OCORRÊNCIAS, FICANDO CLARO QUE OS PROCEDIMENTOS NESSAS SITUAÇÕES SÃO DE RESPONSABILIDADE EXCLUSIVA DO USUÁRIO, QUE DEVERÁ ACIONAR AS AUTORIDADES POLICIAIS PARA TOMADA 
+DE PROVIDÊNCIAS.
+V.II. O #NOMEFANTASIA# não garante, sob qualquer forma, a segurança pessoal dos usuários portadores de rastreadores portáteis ou a recuperação dos veículos, equipamentos ou máquinas equipados com os rastreadores cadastrados no SISTEMA, em caso de roubo ou furto. A função do SISTEMA é unicamente possibilitar ao USUÁRIO a consulta pela internet das posições registradas por cada rastreador cadastrado, para que o USUÁRIO possa assim, adotar as medidas que julgar mais adequadas em cada caso.
+V.III. O #NOMEFANTASIA# não se responsabiliza por falhas na transmissão das posições entre o Rastreador do USUÁRIO e o servidor do SISTEMA, bem como o funcionamento incorreto ou o envio de informações fora do padrão existente, uma vez que esse serviço de transmissão de dados é prestado pela operadora de celular fornecedora do simcard (chip) utilizado pelo USUÁRIO em seu Rastreador GPS.
+V.IV. O #NOMEFANTASIA# não se responsabiliza por falhas ou interrupções no SISTEMA, causados por serviços que dependem de terceiros, tais como empresas de telefonia, sistemas públicos ou privados de telecomunicações, empresas distribuidoras de eletricidade, provedores de internet, sistema global de posicionamento (GPS). Dessa forma, não se responsabilizará por perdas e danos, lucros cessantes e outros eventuais prejuízos do USUÁRIO quando as interrupções dos serviços resultarem dessas limitações, caso fortuito ou força maior.
+V.V. O USUÁRIO declara estar ciente de que o correto funcionamento do SISTEMA dependerá das informações transmitidas pelo seu Rastreador GPS, devendo, portanto, configurá-lo corretamente, preservá-lo adequadamente, ficando alerta para qualquer tipo de avaria que possa ocorrer nas operações de instalação de som e acessórios eletrônicos, consertos mecânico ou elétrico do veículo, lavagens, lubrificação geral, reformas, colisões, choques, alagamentos, incêndios, dentre outros.
+V.VI. O USUÁRIO declara estar ciente de que a transmissão das informações pelo Rastreador GPS poderá sofrer limitações oriundas de interferências, topografias, estruturas e disposição de edifícios, condições atmosféricas, intempéries, situação de satélites, picos de tráfego da internet, e outras.
+V.VII. O USUÁRIO declara estar ciente de que a transmissão das informações pelo Rastreador GPS será interrompida, caso não haja créditos suficientes no simcard (chip) instalado no equipamento, cuja recarga de créditos será de sua responsabilidade, caso este serviço não tenha sido optado e discriminado no ato da contratação do plano.
+V.VIII. O #NOMEFANTASIA# prestará ao USUÁRIO atendimento de toda e qualquer informação que seja de sua competência, sobre o SISTEMA, pelo e-mail monitoramentoaguia@terra.com.br.
+V.IX. As principais ocorrências que podem interromper o funcionamento do sistema de rastreamento, e cujo controle e gestão não são feitos pelo #NOMEFANTASIA#, ficando sob incumbência do USUÁRIO, são:
+V.IX.I. Sinais GSM, GPRS ou GPS fracos ou indisponíveis no local.
+V.IX.II. Região sem cobertura pela operadora de celular utilizada.
+V.IX.III. Congestionamento momentâneo da operadora de celular.
+V.IX.IV. Serviço de torpedos SMS momentaneamente inoperante (consulte a operadora).
+V.IX.V. Simdard (chip) GSM com as funções SMS ou GPRS bloqueadas (consulte a operadora).
+V.IX.VI. Simdard (chip) GSM com defeito ou falha técnica que necessite sua substituição.
+V.IX.VII. Crédito no simcard (chip) do equipamento está esgotado e este serviço não fizer parte do plano contratado junto ao #NOMEFANTASIA#.
+V.IX.VIII. Obstrução dos sinais GSM ou GPS por barreira geográfica (vales, montanhas, túneis, subsolos, coberturas metálicas).
+V.IX.IX. Interferência climática no sinal GSM ou GPS, comum em dias muito nublados ou chuvosos.
+V.IX.X. Falta de alimentação do rastreador (bateria do veículo sem carga, desligada ou fusível queimado, fio da alimentação desconectado).
+V.IX.XI. Se a fiação do rastreador não for ligado diretamente na bateria, conforme o esquema de instalação fornecido. Retornar ao instalador para conferência.
+V.IX.XII. Se a instalação necessária para bloqueio do veículo for ligado indevidamente. Retornar ao instalador para conferência.
+V.IX.XIII. Troca de bateria, manutenção elétrica ou instalação de acessório que interfira na instalação do rastreador. Retornar ao instalador para conferência.
+V.IX.XIV. Substituição do pára-brisas ou manutenção no painel de instrumentos, que interfira na instalação do rastreador. Retornar ao instalador para conferência.
+V.IX.XV. É de responsabilidade do USUÁRIO a correta instalação do aparelho gps ao veículo.
+V.IX.XVI. Pane ou interrupção no Sistema GPS internacional.
+V.IX.XVII. Excesso de tráfego na internet, comum em horas de pico.
+V.IX.XVIII. Infiltração de água durante lavagem do veículo ou enchentes, contato com produtos químicos, vapores, poeira, fogo ou calor ou frio excessivo no equipamento ou seus acessórios.
+V.IX.XIX. Descarga elétrica, queda, impacto ou colisão do veículo que venha a atingir o equipamento ou seus acessórios.
+V.IX.XX. Temperatura ambiente acima da estipulada pelo fabricante.
+V.IX.XXI. Se o veículo ficar parado ou desligado por muitos dias, o USUÁRIO deverá realizar a reconfiguração do aparelho, caso necessário.
+V.IX.XXII. Reinicialização ou desprogramação do rastreador em razão de erro na digitação dos comandos.
+V.X. O #NOMEFANTASIA# não se responsabiliza por qualquer dano acontecido ao aparelho no tempo em que estiver sendo utilizado no SISTEMA.
+V.XI. O #NOMEFANTASIA# não se responsabiliza por qualquer dano acontecido ao veículo no tempo em que o aparelho estiver sendo utilizado no SISTEMA.
+V.XII. O #NOMEFANTASIA# não se responsabiliza pelo uso dos comandos de bloqueio e desbloqueio de veículo. O uso desses comandos é de inteira responsabilidade do usuário, que deve identificar o melhor momento para efetuar o bloqueio/desbloqueio do veículo.
+V.XIII. O #NOMEFANTASIA# tenta manter o SISTEMA atualizado, seguro e livre de erros, mas você o usa por sua conta e risco. O #NOMEFANTASIA# não garante que o SISTEMA ficará seguro e protegido, e não responderá por prejuízo que possa ser derivado da violação dessas medidas por parte de terceiros que utilizem as redes públicas ou a internet, subvertendo os sistemas de segurança, ou utilizando técnicas de programação, para acessar as informações de USUÁRIOS.
+
+
+VI – CANCELAMENTO DA SENHA DE ACESSO:
+
+VI.I. A senha de acesso ao sistema poderá ser cancelada pelo USUÁRIO ou pelo #NOMEFANTASIA#, mediante aviso prévio por e-mail, sem que a rescisão implique em qualquer despesa ou multa para uma ou outra parte, e contanto que não haja nenhum pagamento em atraso exceto que esta esteja explícita no contrato assinado referente ao plano contratado.
+VI.II. Caso qualquer uma das partes rescinda ou interrompa o cumprimento das obrigações previstas neste contrato sem efetuar a comunicação no prazo previsto acima, será facultado à outra parte tomar todas as medidas legais cabíveis.
+
+
+VII – DAS MULTAS:
+
+VII.I. Fica estabelecido entre as partes que não serão aplicadas quaisquer multas, em nenhum momento ou circunstância, uma vez que a senha de acesso ao sistema poderá ser cancelada unilateralmente e livremente por qualquer uma das partes, desde que tal decisão seja comunicada por email à outra parte, conforme as condições estipuladas na Cláusula VIexceto que esta esteja explícita no contrato assinado referente ao plano contratado.
+VII.II. As multas por atraso de pagamento não se incluem nesta cláusula, podendo ser aplicadas de acordo com as condições previstas na Cláusula IV.
+
+
+VIII – DO FORO:
+
+As partes elegem de comum acordo o foro da Comarca de Uberaba, Estado do Minas Gerais, como competente para dirimir quaisquer controvérsias decorrentes deste TERMO DE USO, independentemente de qualquer outro, por mais privilegiado que seja ou venha a ser.
+
+
+
+Copyright © 2012 #NOMEFANTASIA# Todos os Direitos Reservados
